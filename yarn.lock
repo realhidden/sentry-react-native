@@ -8999,10 +8999,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sentry/babel-plugin-component-annotate@npm:3.5.0":
-  version: 3.5.0
-  resolution: "@sentry/babel-plugin-component-annotate@npm:3.5.0"
-  checksum: c5dd3c572e4ca83db859bf3d8ba976393361631f30eb977bc00a572d9981ccaae84f42cce5bf85bc425544245ad22923a66fe96bc2355d339e12ea3aa72d3b82
+"@sentry/babel-plugin-component-annotate@npm:4.0.2":
+  version: 4.0.2
+  resolution: "@sentry/babel-plugin-component-annotate@npm:4.0.2"
+  checksum: 21c04d14b641bbc2aa61f03ea81fd3de9bef36c279a28c4fe2562b35489d93503ab64c8d7a572dcc8a985ab81d3ca92522d95f9d41a0a1dbcdb55e574c1dfc76
   languageName: node
   linkType: hard
 
@@ -9168,7 +9168,7 @@ __metadata:
     "@sentry-internal/eslint-config-sdk": 8.55.0
     "@sentry-internal/eslint-plugin-sdk": 8.55.0
     "@sentry-internal/typescript": 8.55.0
-    "@sentry/babel-plugin-component-annotate": 3.5.0
+    "@sentry/babel-plugin-component-annotate": 4.0.2
     "@sentry/browser": 8.55.0
     "@sentry/cli": 2.47.0
     "@sentry/core": 8.55.0
@@ -26707,7 +26707,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.26.0
     "@babel/preset-env": ^7.26.0
-    "@sentry/babel-plugin-component-annotate": 3.5.0
+    "@sentry/babel-plugin-component-annotate": 4.0.2
     "@sentry/react-native": 6.17.0
     "@types/node": 20.10.4
     "@types/react": ~19.0.10
@@ -26793,7 +26793,7 @@ __metadata:
     "@react-navigation/native": 7.1.8
     "@react-navigation/native-stack": 7.3.12
     "@react-navigation/stack": 7.3.1
-    "@sentry/babel-plugin-component-annotate": 3.5.0
+    "@sentry/babel-plugin-component-annotate": 4.0.2
     "@sentry/core": 8.55.0
     "@sentry/react-native": 6.17.0
     "@shopify/flash-list": 1.8.0
